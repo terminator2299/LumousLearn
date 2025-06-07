@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pkl
+*.db
+.env
+venv/
+mlruns/
+mlflow.db
+frontend/node_modules
