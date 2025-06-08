@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from api.routes import recommend_router
+from backend.api.routes import recommend_router
 
 app = FastAPI(title="LumousLearn - Learning Path Recommender")
 
